@@ -8,5 +8,6 @@ Client side files for a Python chat application using **socket**
 - Clone this repo inside the folder
 - `cd` into the folder
 - Create a python venv using `python3 -m venv venv`
+- Activate the env using `source ./venv/bin/activate`
 - Run `pip install -r requirements.txt`
 - Now you can run the program using `python3 app.py`
